@@ -12,9 +12,9 @@ Institutional, funder, and journal policies govern what we declare at the point 
 
 ## Principles
 
-1. **We take the opportunity seriously.** Unexamined non-adoption has a real cost, in terms of the science we don't do. The group commits to genuinely exploring these tools.
+1. **These tools have the potential to expand the questions we can realistically ask. The group commits to genuinely exploring them to pursue more ambitious science.** However, we do not assume that the tools are inherently beneficial. 
 
-2. **Engagement is supported, not assumed.** Recognising that fluency is becoming a professional skill like statistics or version control, the group provides time and peer-to-peer support, so that developing AI capability is not left to the confident self-taught.
+2. **Engagement is supported, not assumed.** Recognising that fluency is becoming a professional skill like statistics or version control, the group provides time and peer-to-peer support.
 
 3. **Accountability stays human.** You own the errors in AI-assisted work; you therefore cannot also claim the tool's fluency as your insight. You are responsible for ensuring proper attribution of others' work and data, whether you or an agent introduced it. Where AI accelerates our use of others' data, our attribution and engagement with providers keeps pace.
 
