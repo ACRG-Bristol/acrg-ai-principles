@@ -8,7 +8,7 @@ Agentic AI is applicable to essentially all of our modelling and data-analysis w
 
 We are publicly funded to advance understanding of climate change and ozone depletion. If tools exist that can make our science better, we are obliged to take them seriously. However, because of the potential risks to our integrity, the quality of our work, and our long-term skills development, we are equally obliged to demonstrate, rather than assume, that they can improve our outputs. 
 
-Institutional, funder, and journal policies govern what we declare at the point of publication. They say little about how we work in the months before it. That is the gap these principles aim to fill.
+Institutional, funder, and journal policies govern what we declare at the point of publication. They say little about how we work in the months before it. That is the gap these principles aim to fill.  Nevertheless, the Atmospheric Chemistry Research Group is part of the University of Bristol. Nothing in this document can override University policy. Where the two conflict, University policy must take precedence.
 
 ## Principles
 
