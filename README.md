@@ -4,6 +4,8 @@ Draft principles, practical guidelines, and supporting evidence for the use of
 agentic AI in the research of the Atmospheric Chemistry Research Group (ACRG),
 University of Bristol.
 
+**NOTE THAT THESE PRINCIPLES ARE THE STARTING POINT FOR A DISCUSSION WITHIN THE GROUP. AFTER THE WHOLE GROUP HAS REVIEWED THEM, WE'LL POST AN UPDATE HERE*
+
 ## Contents
 
 - **[acrg_ai_principles.md](acrg_ai_principles.md)** — the ten principles the
